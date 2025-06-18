@@ -40,3 +40,12 @@ git clone https://github.com/Melckykaisha/github-style-portfolio.git
 cd github-style-portfolio
 npm install
 npm run dev
+
+
+## 📬 Contact
+
+Built with ❤️ by [Melckzedek Kirya Kaisha](https://github.com/Melckykaisha)
+
+Feel free to connect with me on:
+- [LinkedIn](https://i will edit later/)
+- [Email](mailto:kiryamelckzedek@gmail.com)
