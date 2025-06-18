@@ -46,6 +46,3 @@ npm run dev
 
 Built with ❤️ by [Melckzedek Kirya Kaisha](https://github.com/Melckykaisha)
 
-Feel free to connect with me on:
-- [LinkedIn](https://i will edit later/)
-- [Email](mailto:kiryamelckzedek@gmail.com)
